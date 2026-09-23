@@ -1,7 +1,9 @@
 # INF237 - Algorithms Engineering
-Solutions to weekly labs in INF237 - Algorithms Engineering at the University of Bergen (Spring 2026)
+Solutions to weekly labs from **INF237 – Algorithms Engineering** at the University of Bergen (Spring 2026).
 
-All labs were given as Kattis problems related to the current curriculum.
+Each lab consists of Kattis problems covering topics from the course curriculum. The number in parentheses after each problem is its Kattis difficulty rating.
+
+I have chosen solutions covering a range of algorithmic techniques, including graph algorithms, dynamic programming, segment trees, computational geometry, network flow, string algorithms, and number theory.
 
 1. Graphs
     * Autonomy Reach (1.8)
